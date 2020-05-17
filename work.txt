@@ -1,3 +1,7 @@
 initial word
 Phase 1
+<<<<<<< HEAD
 Phase 2
+=======
+Changes made after checking out the second commit
+>>>>>>> version2_update
